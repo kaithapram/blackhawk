@@ -1,0 +1,31 @@
+title: Black Hawk
+email: blackhawk@local.host
+description: It's free to download anythings!!!
+
+baseurl: "/"
+url: http://keralahost.in/blackhawk
+google_adsense: 
+
+markdown: kramdown
+
+name: Black Hawk
+
+date: 2019-04-16 07:53:05 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/blackhawk/
+google_analytics: 
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: blackhawk
